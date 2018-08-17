@@ -1,6 +1,6 @@
 ﻿using Microsoft.Azure.CosmosDB.Table;
 
-namespace CosmosDbTableApiDemo
+namespace CosmosDbTableApiDemo.Source
 {
 	public class MovieEntity : TableEntity
 	{
